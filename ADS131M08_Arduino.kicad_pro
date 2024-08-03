@@ -557,11 +557,29 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -621,38 +639,6 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
-    ],
-    [
-      "dcca9871-b732-4255-b1c3-7b38d6e2094f",
-      "Antialiasing"
-    ],
-    [
-      "bbecd38a-b510-4fb0-9f45-63d26bda41f9",
-      "Antialiasing1"
-    ],
-    [
-      "4bc3eadf-b516-4cbf-a6da-b5fa32d85258",
-      "Antialiasing2"
-    ],
-    [
-      "0f9c8164-3706-4380-9ea9-d09ca498ee71",
-      "Antialiasing3"
-    ],
-    [
-      "a6ab410e-a9cc-49ab-8a06-09e94d937001",
-      "Antialiasing4"
-    ],
-    [
-      "9e005c48-2ef2-4333-87ba-aff3a3d8dc98",
-      "Antialiasing5"
-    ],
-    [
-      "011ae885-445f-45a1-9df4-64fc32bfd300",
-      "Antialiasing6"
-    ],
-    [
-      "33946a70-c12e-4e8c-88d5-837360e6079a",
-      "Antialiasing7"
     ]
   ],
   "text_variables": {}
