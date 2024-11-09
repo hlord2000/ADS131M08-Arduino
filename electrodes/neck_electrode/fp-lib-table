@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Harwin_SMD_Contact")(type "KiCad")(uri "${KIPRJMOD}/lib/Harwin_SMD_Contact.pretty")(options "")(descr ""))
+)
